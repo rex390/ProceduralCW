@@ -1,0 +1,43 @@
+framework provided by other source but the procedural mechanics done by me
+
+Camera Movement
+
+UP, DOWN arrow keys- move camera forward or backwards
+Left & right arrow keys - move camera to look right or left
+Z AND X keys - move the camera position up and downwards
+Page up and page down - Camera look upwards and downwards
+
+
+Mode controls:-
+
+Increase Mode :- M key
+Decrease Mode :- N key
+
+Fault Terrain :- F  Key
+Increase Fault iter :- T key
+Decrease Fault iter :- Y key
+
+(Mode 2 Only visiable)
+Increase Cube size :- E Key
+Decrease Cube size :- Q Key
+
+(MODE 2 ONLY)
+Move Cursor 
+WASD Key for normal movement
+
+(MODE 2 ONLY)
+Raise terrain :- V Key
+Lower Terrain :- B key
+
+Increase Turn Chance :-  P Key
+Decrease Turn Chance :- O key
+
+Increase Max Height :- J key
+Decrease Max Height :- H key 
+
+(Mode 0 & Mode 1 used for)
+Generate Terrain :- Space bar
+
+(If in Mode 2 then only the cursor smooths the terrain, else in mode 0 and mode 1 the whole terrain is smoothed)
+Smooth Terrain :- U key
+
